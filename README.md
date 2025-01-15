@@ -1,9 +1,6 @@
 <div align = "center">
     <div id="header" align="center">
-      <img src="https://tenor.com/ru/view/kotlin-my-beloved-kotlin-my-beloved-gif-18373794183844739852.gif" width="400"/>
-    <div align="center">
-        <img src="https://komarev.com/ghpvc/?username=gurx0&style=flat-square&color=blue" alt=""/>
-    </div> 
+      <img src="https://media1.tenor.com/m/mBFE12v7hAoAAAAd/gopher-go-lang-infinite-recursion.gif" width="400"/>
 </div>
 
 ---
@@ -14,7 +11,7 @@
 ---
 
 ### 👨‍💼 About Me :
-I am Java Kotlin developer from Moscow. Сurrently studying for a degree in Information Systems and Programming.
+I am .
 
 - 🖥️ I’m developing Android applications on Kotlin and Backend services on Java.
 
@@ -26,21 +23,8 @@ I am Java Kotlin developer from Moscow. Сurrently studying for a degree in Info
 ### :hammer_and_wrench: Languages and Technologies :
             
 <div>
-    <img src= https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original-wordmark.svg width="50" height="50"/>&nbsp;
-    <img src= https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg width="50" height="50"/>&nbsp;
-    <img src= https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg width="50" height="50"/>&nbsp;
-    <img src= https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg width="50" height="50"/>&nbsp
-    <img src= https://github.com/devicons/devicon/blob/master/icons/jetpackcompose/jetpackcompose-original-wordmark.svg width="50" height="50"/>&nbsp;
-    <img src= https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg width="50" height="50"/>&nbsp;
-    <img src= https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg width="50" height="50"/>&nbsp;
-    <img src= https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original-wordmark.svg width="50" height="50"/>&nbsp;
-    <img src= https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg width="50" height="50"/>&nbsp;
-    <img src= https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg width="50" height="50"/>&nbsp;
-    <img src= https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg width="50" height="50"/>&nbsp;
-    <img src= https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg width="50" height="50"/>&nbsp;
-    <img src= https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg width="50" height="50"/>&nbsp;
-<!-- <img src= https://www.svgrepo.com/show/512125/file-ai-1761.svg width="50" height="50"/>&nbsp;
- -->
+    <img src= https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/clion/clion-original.svg width="50" height="50"/>&nbsp;
+    <img src= https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/go/go-original-wordmark.svg width="50" height="50"/>&nbsp;
 </div>
 
 
