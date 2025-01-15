@@ -1,10 +1,6 @@
 <div align = "center">
     <div id="header" align="center">
       <img src="https://tenor.com/ru/view/kotlin-my-beloved-kotlin-my-beloved-gif-18373794183844739852.gif" width="400"/>
-    </div>
-        <a href="https://t.me/GORDOSTAMERIKI">
-      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-    </div>
     <div align="center">
         <img src="https://komarev.com/ghpvc/?username=gurx0&style=flat-square&color=blue" alt=""/>
     </div> 
@@ -51,6 +47,6 @@ I am Java Kotlin developer from Moscow. Сurrently studying for a degree in Info
 ---
 ### :fire: My Stats :
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gurx0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gurhz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Streak Statistics](https://github-readme-streak-stats.herokuapp.com/?user=gurx0&theme=dark&hide_border=false)
+![Streak Statistics](https://github-readme-streak-stats.herokuapp.com/?user=gurhz0&theme=dark&hide_border=false)
