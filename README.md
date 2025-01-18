@@ -5,17 +5,12 @@
 
 ---
  ### :trophy: Achievements
--  KS54 Hack **WINNER**
--  Scientific conference "Unmanned technologies and devices" **WINNER**
-
 ---
 
 ### 👨‍💼 About Me :
-I am .
+I am 15yo beginer developer .
 
-- 🖥️ I’m developing Android applications on Kotlin and Backend services on Java.
-
-- 💰 In my free time I assemble computers to order
+- 🖥️ I’m developing GoLang/C++ applications and Backend services.
 
 - :zap: I’m ready to develop in almost any field
 
