@@ -2,7 +2,7 @@
     <div id="header" align="center">
       <img src="https://media1.tenor.com/m/mBFE12v7hAoAAAAd/gopher-go-lang-infinite-recursion.gif" width="400"/>
     </div>
-    <h1>Привет, я начинающий разработчик! 👋</h1>
+    <h1>Привет, я 👋</h1>
     <img src="https://komarev.com/ghpvc/?username=gurhz&style=flat-square&color=blue" alt=""/>
 </div>
 
