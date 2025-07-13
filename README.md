@@ -1,12 +1,7 @@
-<div align="center">
-    <div id="header" align="center">
-      <img src="https://media1.tenor.com/m/mBFE12v7hAoAAAAd/gopher-go-lang-infinite-recursion.gif" width="400"/>
-    </div>
-    <h1>Привет, я 👋</h1>
-    <img src="https://komarev.com/ghpvc/?username=gurhz&style=flat-square&color=blue" alt=""/>
+<div id="header" align="center">
+    <img src="https://media1.tenor.com/m/mBFE12v7hAoAAAAd/gopher-go-lang-infinite-recursion.gif" width="400"/>
 </div>
-
----
+    <h1 align="center">Привет, я 👋</h1>
 
 ### 🏆 Обо мне:
 Мне 15 лет и я увлеченный разработчик из России. Помимо программирования, я обожаю:
